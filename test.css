@@ -1,0 +1,53 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+#name {
+    font-size: 30px;
+    margin: 0;
+    margin-top: 10px;
+}
+#title {
+    font-size: 20px;
+    margin: 8px 0;
+    padding: 2px;
+    color: #111;
+}
+aside {
+    float: left;
+    background: #dfdfdf;
+    height: 1300px;
+    padding: 20px;
+    clear: bottom;
+    width: 240px;
+    margin-right: 30px;
+}
+aside p {
+    margin: 50px 0;
+}
+.title {
+    display: none;
+}
+h2 {
+    font-size: 20px;
+    margin-top: 0;
+    padding-top: 20px;
+    color: #4f4f4f;
+}
+
+h1, h2, h3 {
+    font-weight: normal;
+}
+ul {
+    padding-left: 20px;
+}
+li {
+    list-style-type: none;
+    margin: 15px;
+}
+li:before {
+}
+
+

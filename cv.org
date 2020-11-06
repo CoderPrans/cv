@@ -1,0 +1,59 @@
+#+TITLE: Pranav Bhaskar
+#+OPTIONS: toc:nil html-preamble:nil html-postamble:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="test.css" />
+#+HTML_DOCTYPE: html5
+
+#+HTML: <aside>
+#+HTML: <h1 id="name">Pranav Bhaskar</h1>
+#+HTML: <h2 id="title">WEB DEVELOPER</h2>
+Pune, Maharashtra, India
+pranavbhaskar17@gmail.com
+* TODO Add more links
+#+HTML: <h2>Skills</h2>
+- HTML 5
+- JavaScript 
+- CSS 3
+- React.js 
+- Node.js 
+- Git
+- GatsbyJS 
+- GraphQL 
+- MongoDB 
+* TODO Add relevent skills
+#+HTML: </aside>
+
+* Summary
+A developer and code enthusiast with ambitions to work for and promote the
+open source community and contribute shaping a better future.
+* TODO Improve summary
+* Experience
+** Freelancing
+Jan 2020 - present
+** Web Developer
+Opinta Solutions Pvt. Ltd.
+Sep 2018-Jan 2020 (1 year 5 months)
+* TODO Describe experiences
+* TODO Add projects
+* Education
+** freeCodeCamp
+Full Stack Web Development Certification, Computer Software Engineering
+2017-2020
+
+** MIT Academy of Engineering, Alandi, Pune
+Bachelor of Technology-BTech, Electrical and Electronics Engineering
+2016-2020
+
+* TODO Add certificate links
+* Certifications
+- Javascript Algorithms and Data Structures 
+  - FreeCodeCamp
+- Front End Libraries 
+  - FreeCodeCamp
+- Responsive Web Design
+  - FreeCodeCamp
+- Front End Development
+  - FreeCodeCamp
+- APIs and Microservices
+  - FreeCodeCamp
+- Data Visualization
+  - FreeCodeCamp
