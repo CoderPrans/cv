@@ -7,53 +7,85 @@
 #+HTML: <h1 id="name">Pranav Bhaskar</h1>
 #+HTML: <h2 id="title">WEB DEVELOPER</h2>
 Pune, Maharashtra, India
-pranavbhaskar17@gmail.com
-* TODO Add more links
+#+HTML: <div class="links">
+-  pranavbhaskar17@gmail.com
+-  [[https://linkedin.com/in/CoderPrans]]
+-  [[https://github.com/CoderPrans]]
+-  [[https://twitter.com/CoderPrans]]
+#+HTML: </div>
 #+HTML: <h2>Skills</h2>
 - HTML 5
-- JavaScript 
 - CSS 3
+- JavaScript 
 - React.js 
-- Node.js 
-- Git
-- GatsbyJS 
 - GraphQL 
+- Node.js 
 - MongoDB 
-* TODO Add relevent skills
+- Git
+- PWAs
+
 #+HTML: </aside>
 
 * Summary
 A developer and code enthusiast with ambitions to work for and promote the
 open source community and contribute shaping a better future.
-* TODO Improve summary
+
 * Experience
 ** Freelancing
-Jan 2020 - present
+#+HTML: <b>Jan 2020 - present</b>
+Taking on freelancing projects mostly by contacts. Notable once are HunarPro and
+CMS Warje. Worked mostly with React and Meta Frameworks based around React like
+Next and Gatsby. Explored Svelte a bit. 
 ** Web Developer
-Opinta Solutions Pvt. Ltd.
-Sep 2018-Jan 2020 (1 year 5 months)
-* TODO Describe experiences
-* TODO Add projects
+#+HTML: <b>Opinta Solutions Pvt. Ltd. <br />Sep 2018 - Jan 2020 (1 year 5 months)</b> 
+
+Sole developer in a 4 person web solutions startup tasked with any project 
+internal or client. Worked with technologies like React, Node, MongoDB and 
+GraphQL.
+
+* Selected Projects
+** Hindi Archive
+A React interface over a Python Flask backend using the 'internetarchive'
+python library to provide search results for all Hindi items. An approach to
+promote the usage of open source resources and by far the Hindi Language.
+** Opinta Solutions
+The old official site of Opinta Solutions intended to promote the startup. 
+A Gatsby js(React) Headless CMS site with WordPress powered blog backend and 
+frontend designed on a BootStrap theme.
+** Travis Connect (incomplete)
+A social media platform for Travellers. Next js(React) full stack monolith 
+using Apollo Client and Apollo-Express GraphQL server backend with MongoDB. 
+Although incomplete, phase 1 with user registration, and 
+followers/following feature implemented.
+** Hunar Pro 
+The old official site of Hunar Pro, a startup that provides training and 
+kits for World Skills competition. Site build with Next js(React) powered by
+Stripe payments for buying kits from the site.
+** RSS Reader
+A PWA feed reader built on Next js(React) where a user can subscribe to any blog.
+Also users can register and save their subscriptions. Comes with Dark Mode.
 * Education
 ** freeCodeCamp
 Full Stack Web Development Certification, Computer Software Engineering
-2017-2020
+Jan 2017 - present
 
 ** MIT Academy of Engineering, Alandi, Pune
 Bachelor of Technology-BTech, Electrical and Electronics Engineering
 2016-2020
 
-* TODO Add certificate links
 * Certifications
-- Javascript Algorithms and Data Structures 
-  - FreeCodeCamp
-- Front End Libraries 
-  - FreeCodeCamp
-- Responsive Web Design
-  - FreeCodeCamp
-- Front End Development
-  - FreeCodeCamp
-- APIs and Microservices
-  - FreeCodeCamp
-- Data Visualization
-  - FreeCodeCamp
+- Front End Libraries, FreeCodeCamp
+- Responsive Web Design, FreeCodeCamp
+- Front End Development, FreeCodeCamp
+- APIs and Microservices, FreeCodeCamp
+- Javascript Algorithms and Data Structures, FreeCodeCamp
+- Data Visualization, FreeCodeCamp
+
+#+BEGIN_todos
+ TODO Add more links
+ TODO Add certificate links
+ TODO Add projects
+ TODO Describe experiences
+ TODO Improve summary
+ TODO Add relevent skills
+#+END_todos

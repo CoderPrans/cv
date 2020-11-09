@@ -3,6 +3,8 @@ body {
     padding: 0;
     margin: 0;
     font-family: sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
 }
 #name {
     font-size: 30px;
@@ -13,19 +15,28 @@ body {
     font-size: 20px;
     margin: 8px 0;
     padding: 2px;
+    padding-bottom: 20px;
     color: #111;
 }
 aside {
     float: left;
     background: #dfdfdf;
-    height: 1300px;
+    height: 1800px;
     padding: 20px;
     clear: bottom;
-    width: 240px;
+    width: 280px;
     margin-right: 30px;
 }
 aside p {
-    margin: 50px 0;
+ /*   margin: 50px 0;*/
+    padding: 0;
+}
+p {
+    padding-right: 50px;
+}
+b {
+    font-size: 14px;
+    line-height: 1.2;
 }
 .title {
     display: none;
@@ -47,7 +58,17 @@ li {
     list-style-type: none;
     margin: 15px;
 }
-li:before {
+.todos {
+    display: none;
+}
+.links {
+    font-size: 14px;
+}
+.links ul {
+    padding-left: 0;
+}
+.links li {
+    margin: 5px 0; 
 }
 
 
