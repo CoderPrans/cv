@@ -41,14 +41,14 @@ open source community and contribute shaping a better future.
 ** Freelancing
 #+HTML: <b>Jan 2020 - present</b>
 
-Freelancing for a living. Notable projecsts include HunarPro and CMS Warje. 
-Worked mostly with React and Meta Frameworks based around React like Next and Gatsby. 
-Also explored Svelte a bit. 
+Freelancing for a living. Notable projects include HunarPro and CMS Warje. 
+Worked mostly with React and Meta Frameworks based around React like Next 
+and Gatsby also explored Svelte.
 
 ** Web Developer, Opinta Solutions Pvt. Ltd.
 #+HTML: <b>Sep 2018 - Jan 2020 (1 year 5 months)</b> 
 
-Sole developer in a 4 person web solutions startup tasked with any project 
+Sole developer in a 4 person web solutions startup, tasked with any project 
 internal or client. Worked with technologies like React, Node, MongoDB and 
 GraphQL.
 
@@ -85,7 +85,7 @@ Stripe payments for buying kits from the site.
 
 ** RSS Reader
 - https://rss-reader.coderprans.vercel.app/
-A PWA feed reader built on Next js(React) where a user can subscribe to any blog, 
+A PWA feed reader built on Next js(React) where a user can subscribe to any blog,
 register and save their subscriptions. Comes with Dark Mode.
 
 
