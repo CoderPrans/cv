@@ -92,11 +92,11 @@ register and save their subscriptions. Comes with Dark Mode.
 * Education
 ** freeCodeCamp.org
 Full Stack Web Development Certification, Computer Software Engineering
-Jan 2017 - present
+- Jan 2017 - present
 
 ** MIT Academy of Engineering, Alandi, Pune
 Bachelor of Technology (BTech), Electronics Engineering
-2016-2020
+- 2016-2020
 
 
 #+BEGIN_todos
