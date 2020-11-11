@@ -1,27 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+
 body {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     line-height: 1.5;
 }
 #name {
     font-size: 30px;
     margin: 0;
-    margin-top: 10px;
+
 }
 #title {
     font-size: 20px;
-    margin: 8px 0;
     padding: 2px;
     padding-bottom: 20px;
-    color: #111;
+
 }
 aside {
     float: left;
-    background: #dfdfdf;
-    height: 1800px;
+    background: #eaeaea;
+    height: 1600px;
     padding: 20px;
     clear: bottom;
     width: 280px;
@@ -30,9 +31,10 @@ aside {
 aside p {
  /*   margin: 50px 0;*/
     padding: 0;
+    line-height: 2;
 }
 p {
-    padding-right: 50px;
+    padding-right: 120px;
 }
 b {
     font-size: 14px;
@@ -42,33 +44,40 @@ b {
     display: none;
 }
 h2 {
-    font-size: 20px;
     margin-top: 0;
     padding-top: 20px;
-    color: #4f4f4f;
+    color: #666;
 }
 
-h1, h2, h3 {
+h1, h3 {
     font-weight: normal;
 }
+h2 {
+    font-weight: 450;
+}
 ul {
-    padding-left: 20px;
+    padding-left: 0px;
 }
 li {
     list-style-type: none;
-    margin: 15px;
+    margin: 15px 5px;
 }
 .todos {
     display: none;
 }
 .links {
     font-size: 14px;
+    margin: 30px 0;
 }
 .links ul {
     padding-left: 0;
 }
 .links li {
     margin: 5px 0; 
+}
+a {
+    font-size: 12px;
+    color: black;
 }
 
 
