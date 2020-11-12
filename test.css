@@ -22,7 +22,7 @@ body {
 aside {
     float: left;
     background: #eaeaea;
-    height: 1600px;
+    height: 2020px;
     padding: 20px;
     clear: bottom;
     width: 280px;
@@ -73,11 +73,18 @@ li {
     padding-left: 0;
 }
 .links li {
-    margin: 5px 0; 
+    margin: 5px 0;
+    
 }
 a {
-    font-size: 12px;
-    color: black;
-}
+    font-size: 13px;
 
+    color: black;
+    max-width: 250px;
+}
+.certificates > ul > li > ul > li > a {
+
+    width: 260px;
+    overflow-wrap: break-word;
+}
 

@@ -9,7 +9,7 @@
 Pune, Maharashtra, India
 #+HTML: <div class="links">
 - Email: pranavbhaskar17@gmail.com
-- GitHub: https://github.com/CoderPrans
+- GitHub: https://github.comb/CoderPrans
 - LinkedIn: https://linkedin.com/in/CoderPrans
 - Twitter: https://twitter.com/CoderPrans
 #+HTML: </div>
@@ -17,6 +17,7 @@ Pune, Maharashtra, India
  HTML5, CSS3, JavaScript, React.js, GraphQL,
  Node.js, MongoDB, Git, PWAs
 #+HTML: <h2>Certifications</h2>
+#+HTML: <div class="certificates">
 - Front End Libraries, FreeCodeCamp
   - https://www.freecodecamp.org/certification/coderprans/front-end-libraries
 - Responsive Web Design, FreeCodeCamp
@@ -29,7 +30,7 @@ Pune, Maharashtra, India
   - https://www.freecodecamp.org/certification/coderprans/javascript-algorithms-and-data-structures
 - Data Visualization, FreeCodeCamp
   - https://www.freecodecamp.org/certification/coderprans/data-visualization
-
+#+HTML: </div>
 #+HTML: </aside>
 
 * Summary
