@@ -15,7 +15,7 @@ Pune, Maharashtra, India
 #+HTML: </div>
 #+HTML: <h2>Skills</h2>
  HTML5, CSS3, JavaScript, React.js, GraphQL,
- Node.js, MongoDB, Git, PWAs
+ Node.js, Python, MongoDB, Git, PWAs
 #+HTML: <h2>Certifications</h2>
 #+HTML: <div class="certificates">
 - Front End Libraries, FreeCodeCamp
