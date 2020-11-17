@@ -15,7 +15,7 @@ Pune, Maharashtra, India
 #+HTML: </div>
 #+HTML: <h2>Skills</h2>
  HTML5, CSS3, JavaScript, React.js, GraphQL,
- Node.js, Python, MongoDB, Git, PWAs
+ Node.js, MongoDB, Git, PWAs
 #+HTML: <h2>Certifications</h2>
 #+HTML: <div class="certificates">
 - Front End Libraries, FreeCodeCamp
@@ -33,25 +33,26 @@ Pune, Maharashtra, India
 #+HTML: </div>
 #+HTML: </aside>
 
-* Summary
-A developer and code enthusiast with ambitions to work for and promote the
-open source community and contribute shaping a better future.
-
 
 * Experience
 ** Freelancing
 #+HTML: <b>Jan 2020 - present</b>
+Notable Projects: [[https://hunarpro.coderprans.vercel.app/][HunarPro]], [[https://warjecms.org/][CMS Warje]]
+#+HTML: <span />
+Tech Used: React, Next, Python, Svelte
+# Freelancing for a living. Notable projects include HunarPro and CMS Warje. 
+# Worked mostly with React and Meta Frameworks based around React like Next 
+# and Gatsby also explored Svelte.
 
-Freelancing for a living. Notable projects include HunarPro and CMS Warje. 
-Worked mostly with React and Meta Frameworks based around React like Next 
-and Gatsby also explored Svelte.
 
 ** Web Developer, Opinta Solutions Pvt. Ltd.
 #+HTML: <b>Sep 2018 - Jan 2020 (1 year 5 months)</b> 
-
-Sole developer in a 4 person web solutions startup, tasked with any project 
-internal or client. Worked with technologies like React, Node, MongoDB and 
-GraphQL.
+Notable Projects: [[https://opintasolutions.coderprans.now.sh][Opinta Solutions(Website)]], [[https://extrasave.coderprans.now.sh/][ExtraSave]]  
+#+HTML: <span />
+Tech Used: React, Gatsby, Node, MongoDB, GraphQL 
+# Sole developer in a 4 person web solutions startup, tasked with any project 
+# internal or client. Worked with technologies like React, Node, MongoDB and 
+# GraphQL.
 
 
 * Selected Projects

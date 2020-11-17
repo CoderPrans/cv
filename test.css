@@ -78,13 +78,20 @@ li {
 }
 a {
     font-size: 13px;
-
     color: black;
     max-width: 250px;
+}
+p a {
+    font-size: inherit;
 }
 .certificates > ul > li > ul > li > a {
 
     width: 260px;
     overflow-wrap: break-word;
 }
-
+.outline-text-3 p {
+    margin: 6px;
+}
+span {
+    display: block;
+}
