@@ -9,7 +9,7 @@
 Pune, Maharashtra, India
 #+HTML: <div class="links">
 - Email: pranavbhaskar17@gmail.com
-- GitHub: https://github.comb/CoderPrans
+- GitHub: https://github.com/CoderPrans
 - LinkedIn: https://linkedin.com/in/CoderPrans
 - Twitter: https://twitter.com/CoderPrans
 #+HTML: </div>
