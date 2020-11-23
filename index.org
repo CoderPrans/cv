@@ -9,6 +9,7 @@
 Pune, Maharashtra, India
 #+HTML: <div class="links">
 - Email: pranavbhaskar17@gmail.com
+- Phone: +91 8789 59 2893
 - GitHub: https://github.com/CoderPrans
 - LinkedIn: https://linkedin.com/in/CoderPrans
 - Twitter: https://twitter.com/CoderPrans
@@ -47,7 +48,7 @@ Tech Used: React, React/Next, Python, Svelte
 
 ** Web Developer, Opinta Solutions Pvt. Ltd.
 #+HTML: <b>Sep 2018 - Jan 2020 (1 year 5 months)</b> 
-Notable Projects: [[https://opintasolutions.coderprans.now.sh][Opinta Solutions(Website)]], [[https://extrasave.coderprans.now.sh/][ExtraSave]]  
+Notable Projects: [[https://opintasolutions.coderprans.now.sh][Opinta Solutions]], [[https://extrasave.coderprans.now.sh/][ExtraSave]]  
 #+HTML: <span />
 Tech Used: React, React/Gatsby, Node, MongoDB, GraphQL 
 # Sole developer in a 4 person web solutions startup, tasked with any project 
