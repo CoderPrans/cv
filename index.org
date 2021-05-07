@@ -15,8 +15,8 @@ Pune, Maharashtra, India
 - Twitter: https://twitter.com/CoderPrans
 #+HTML: </div>
 #+HTML: <h2>Skills</h2>
- HTML5, CSS3, JavaScript, React.js,
- Node.js, MongoDB, Git, PWAs
+ HTML5, CSS3, JavaScript, Clojure/Script, 
+ React.js, Redux, Node.js, MongoDB, Git, PWAs
 #+HTML: <h2>Certifications</h2>
 #+HTML: <div class="certificates">
 - Front End Libraries, FreeCodeCamp
@@ -36,8 +36,15 @@ Pune, Maharashtra, India
 
 
 * Experience
+** Software Engineer, Starlly Solutions Pvt. Ltd.
+#+HTML: <b>Dec 2020 - present</b> 
+Notable Projects: [[https://v2.starlly.in][Spectra]]
+#+HTML: <span />
+Tech Used: React, Redux, Node, Typescript
+
+
 ** Freelancing
-#+HTML: <b>Jan 2020 - present</b>
+#+HTML: <b>Jan 2020 - Oct 2020 (10 months)</b>
 Notable Projects: [[https://hunarpro.coderprans.vercel.app/][HunarPro]], [[https://warjecms.org/][CMS Warje]]
 #+HTML: <span />
 Tech Used: React, React/Next, Python, Svelte
@@ -75,6 +82,13 @@ Tech Used: React/Gatsby, Headless CMS(WordPress)
 # The old official site of Opinta Solutions intended to promote the startup. 
 # A Gatsby js(React) Headless CMS site with WordPress powered blog backend and 
 # frontend designed on a BootStrap theme.
+
+
+** Hacker News CLJS
+- https://hncljs.netlify.app/
+A Hacker News clone.
+#+HTML: <span />
+Tech Used: ClojureScript, Re-frame
 
 
 # ** Trawis Connect (incomplete)
