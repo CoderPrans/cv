@@ -66,22 +66,12 @@ Tech Used: React, React/Gatsby, Node, MongoDB, GraphQL
 * Selected Projects
 ** Hindi Archive
 - https://hindiarchive.netlify.app
-Search frontent for searching Hindi contents on the Internet Archive.
+Frontend for searching Hindi contents on the Internet Archive.
 #+HTML: <span />
 Tech Used: React, Flask
 # A React interface over a Python Flask backend using the 'internetarchive'
 # python library to provide search results for all Hindi items. An approach to
 # promote the usage of open source resources and the Hindi Language in tech.
-
-
-** Opinta Solutions
-- https://opintasolutions.coderprans.now.sh/
-Website/Blog for a web solutions startup.
-#+HTML: <span />
-Tech Used: React/Gatsby, Headless CMS(WordPress)
-# The old official site of Opinta Solutions intended to promote the startup. 
-# A Gatsby js(React) Headless CMS site with WordPress powered blog backend and 
-# frontend designed on a BootStrap theme.
 
 
 ** Hacker News CLJS
@@ -97,6 +87,16 @@ Tech Used: ClojureScript, Re-frame
 # using Apollo Client and Apollo-Express GraphQL server backend with MongoDB. 
 # Although incomplete, phase 1 with user registration, and 
 # followers/following feature implemented.
+
+
+** Opinta Solutions
+- https://opintasolutions.coderprans.now.sh/
+Website/Blog for a web solutions startup.
+#+HTML: <span />
+Tech Used: React/Gatsby, Headless CMS(WordPress)
+# The old official site of Opinta Solutions intended to promote the startup. 
+# A Gatsby js(React) Headless CMS site with WordPress powered blog backend and 
+# frontend designed on a BootStrap theme.
 
 
 ** Hunar Pro 
@@ -129,12 +129,3 @@ Full Stack Web Development Certification, Computer Software Engineering
 Bachelor of Technology (BTech), Electronics Engineering
 
 
-
-#+BEGIN_todos
- TODO Add more links
- TODO Add certificate links
- TODO Add projects
- TODO Describe experiences
- TODO Improve summary
- TODO Add relevent skills
-#+END_todos
