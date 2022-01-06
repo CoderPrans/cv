@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2021-07-02 Fri 19:15 -->
+<!-- 2022-01-06 Thu 12:06 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Pranav Bhaskar</title>
 <meta name="generator" content="Org mode">
-<meta name="author" content="pranav">
+<meta name="author" content="Pranav Bhaskar">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -38,7 +38,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -50,7 +50,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -193,50 +193,26 @@
 </style>
 <link rel="stylesheet" type="text/css" href="test.css" />
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -260,7 +236,7 @@ Pune, Maharashtra, India
 <h2>Skills</h2>
 <p>
 HTML5, CSS3, JavaScript, Clojure/Script, 
-React.js, Redux, Node.js, MongoDB, Git, PWAs
+React.js, Redux, Node.js, MongoDB, Git, Python
 </p>
 <h2>Certifications</h2>
 <div class="certificates">
@@ -294,31 +270,31 @@ React.js, Redux, Node.js, MongoDB, Git, PWAs
 </aside>
 
 
-<div id="outline-container-org73b61de" class="outline-2">
-<h2 id="org73b61de">Experience</h2>
-<div class="outline-text-2" id="text-org73b61de">
+<div id="outline-container-org5237ea4" class="outline-2">
+<h2 id="org5237ea4">Experience</h2>
+<div class="outline-text-2" id="text-org5237ea4">
 </div>
-<div id="outline-container-org101aa69" class="outline-3">
-<h3 id="org101aa69">Software Engineer, Starlly Solutions Pvt. Ltd.</h3>
-<div class="outline-text-3" id="text-org101aa69">
+<div id="outline-container-orgcfba483" class="outline-3">
+<h3 id="orgcfba483">Software Engineer, Starlly Solutions Pvt. Ltd.</h3>
+<div class="outline-text-3" id="text-orgcfba483">
 <b>Dec 2020 - present</b>
 <p>
-Notable Projects: <a href="https://v2.starlly.in">Spectra</a>
+Notable Projects: <a href="https://v2.starlly.in">Spectra</a>, <a href="https://app.paralel.com">Paralel</a>
 </p>
 <span />
 <p>
-Tech Used: React, Redux, Node, Typescript
+Tech Used: React, Redux, Node, GraphQL
 </p>
 </div>
 </div>
 
 
-<div id="outline-container-org4cfa28a" class="outline-3">
-<h3 id="org4cfa28a">Freelancing</h3>
-<div class="outline-text-3" id="text-org4cfa28a">
+<div id="outline-container-orgd8f2280" class="outline-3">
+<h3 id="orgd8f2280">Freelancing</h3>
+<div class="outline-text-3" id="text-orgd8f2280">
 <b>Jan 2020 - Oct 2020 (10 months)</b>
 <p>
-Notable Projects: <a href="https://hunarpro.coderprans.vercel.app/">HunarPro</a>, <a href="https://warjecms.org/">CMS Warje</a>
+Notable Projects: <a href="https://hunarpro.coderprans.vercel.app/">HunarPro</a>
 </p>
 <span />
 <p>
@@ -328,9 +304,9 @@ Tech Used: React, React/Next, Python, Svelte
 </div>
 
 
-<div id="outline-container-org0a63ebb" class="outline-3">
-<h3 id="org0a63ebb">Web Developer, Opinta Solutions Pvt. Ltd.</h3>
-<div class="outline-text-3" id="text-org0a63ebb">
+<div id="outline-container-orgceaaca0" class="outline-3">
+<h3 id="orgceaaca0">Web Developer, Opinta Solutions Pvt. Ltd.</h3>
+<div class="outline-text-3" id="text-orgceaaca0">
 <b>Sep 2018 - Jan 2020 (1 year 5 months)</b>
 <p>
 Notable Projects: <a href="https://opintasolutions.coderprans.now.sh">Opinta Solutions</a>, <a href="https://extrasave.coderprans.now.sh/">ExtraSave</a>  
@@ -344,13 +320,13 @@ Tech Used: React, React/Gatsby, Node, MongoDB, GraphQL
 </div>
 
 
-<div id="outline-container-org48c9602" class="outline-2">
-<h2 id="org48c9602">Selected Projects</h2>
-<div class="outline-text-2" id="text-org48c9602">
+<div id="outline-container-orgc10091c" class="outline-2">
+<h2 id="orgc10091c">Selected Projects</h2>
+<div class="outline-text-2" id="text-orgc10091c">
 </div>
-<div id="outline-container-orgf7fe5a4" class="outline-3">
-<h3 id="orgf7fe5a4">Hindi Archive</h3>
-<div class="outline-text-3" id="text-orgf7fe5a4">
+<div id="outline-container-orga5f4fe2" class="outline-3">
+<h3 id="orga5f4fe2">Hindi Archive</h3>
+<div class="outline-text-3" id="text-orga5f4fe2">
 <ul class="org-ul">
 <li><a href="https://hindiarchive.netlify.app">https://hindiarchive.netlify.app</a></li>
 </ul>
@@ -365,9 +341,9 @@ Tech Used: React, Flask
 </div>
 
 
-<div id="outline-container-org7d5fdc1" class="outline-3">
-<h3 id="org7d5fdc1">Hacker News CLJS</h3>
-<div class="outline-text-3" id="text-org7d5fdc1">
+<div id="outline-container-org5785e9b" class="outline-3">
+<h3 id="org5785e9b">Hacker News CLJS</h3>
+<div class="outline-text-3" id="text-org5785e9b">
 <ul class="org-ul">
 <li><a href="https://hncljs.netlify.app/">https://hncljs.netlify.app/</a></li>
 </ul>
@@ -382,9 +358,9 @@ Tech Used: ClojureScript, Re-frame
 </div>
 
 
-<div id="outline-container-org3d5b736" class="outline-3">
-<h3 id="org3d5b736">Opinta Solutions</h3>
-<div class="outline-text-3" id="text-org3d5b736">
+<div id="outline-container-org743849b" class="outline-3">
+<h3 id="org743849b">Opinta Solutions</h3>
+<div class="outline-text-3" id="text-org743849b">
 <ul class="org-ul">
 <li><a href="https://opintasolutions.coderprans.now.sh/">https://opintasolutions.coderprans.now.sh/</a></li>
 </ul>
@@ -399,9 +375,9 @@ Tech Used: React/Gatsby, Headless CMS(WordPress)
 </div>
 
 
-<div id="outline-container-org1e3ad56" class="outline-3">
-<h3 id="org1e3ad56">Hunar Pro</h3>
-<div class="outline-text-3" id="text-org1e3ad56">
+<div id="outline-container-orgf6b148b" class="outline-3">
+<h3 id="orgf6b148b">Hunar Pro</h3>
+<div class="outline-text-3" id="text-orgf6b148b">
 <ul class="org-ul">
 <li><a href="https://hunarpro.coderprans.vercel.app/">https://hunarpro.coderprans.vercel.app/</a></li>
 </ul>
@@ -416,9 +392,9 @@ Tech Used: React/Next, Stripe
 </div>
 
 
-<div id="outline-container-org1a3c539" class="outline-3">
-<h3 id="org1a3c539">RSS Reader</h3>
-<div class="outline-text-3" id="text-org1a3c539">
+<div id="outline-container-org6237724" class="outline-3">
+<h3 id="org6237724">RSS Reader</h3>
+<div class="outline-text-3" id="text-org6237724">
 <ul class="org-ul">
 <li><a href="https://rss-reader.coderprans.vercel.app/">https://rss-reader.coderprans.vercel.app/</a></li>
 </ul>
@@ -434,13 +410,13 @@ Tech Used: React/Next, MongoDB
 </div>
 
 
-<div id="outline-container-orgf3f18d4" class="outline-2">
-<h2 id="orgf3f18d4">Education</h2>
-<div class="outline-text-2" id="text-orgf3f18d4">
+<div id="outline-container-org603bdde" class="outline-2">
+<h2 id="org603bdde">Education</h2>
+<div class="outline-text-2" id="text-org603bdde">
 </div>
-<div id="outline-container-orge9db81a" class="outline-3">
-<h3 id="orge9db81a">freeCodeCamp.org</h3>
-<div class="outline-text-3" id="text-orge9db81a">
+<div id="outline-container-org3bf1d5d" class="outline-3">
+<h3 id="org3bf1d5d">freeCodeCamp.org</h3>
+<div class="outline-text-3" id="text-org3bf1d5d">
 <b>Jan 2017 - present</b>
 <p>
 Full Stack Web Development Certification, Computer Software Engineering
@@ -449,9 +425,9 @@ Full Stack Web Development Certification, Computer Software Engineering
 </div>
 
 
-<div id="outline-container-org5a728c7" class="outline-3">
-<h3 id="org5a728c7">MIT Academy of Engineering, Alandi, Pune</h3>
-<div class="outline-text-3" id="text-org5a728c7">
+<div id="outline-container-org532fd60" class="outline-3">
+<h3 id="org532fd60">MIT Academy of Engineering, Alandi, Pune</h3>
+<div class="outline-text-3" id="text-org532fd60">
 <b>June 2016 - September 2020</b>
 <p>
 Bachelor of Technology (BTech), Electronics Engineering
