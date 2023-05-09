@@ -38,16 +38,16 @@ Pune, Maharashtra, India
 * Experience
 ** Software Engineer, Starlly Solutions Pvt. Ltd.
 #+HTML: <b>Dec 2020 - present</b> 
-Notable Projects: [[https://v2.starlly.in][Spectra]], [[https://app.paralel.com][Paralel]]
+Notable Projects: [[https://spectra.starllysolutions.com/][Spectra]], [[https://paralel.com][Paralel LLC]], [[https://utilityincomefund.com][Reaves UTG]]
 #+HTML: <span />
-Tech Used: React, Redux, Node, GraphQL
+Tech Used: React, Redux, Node, GraphQL, D3
 
 
 ** Freelancing
 #+HTML: <b>Jan 2020 - Oct 2020 (10 months)</b>
 Notable Projects: [[https://hunarpro.coderprans.vercel.app/][HunarPro]]
 #+HTML: <span />
-Tech Used: React, React/Next, Python, Svelte
+Tech Used: React, Next.js, Python
 # Freelancing for a living. Notable projects include HunarPro and CMS Warje. 
 # Worked mostly with React and Meta Frameworks based around React like Next 
 # and Gatsby also explored Svelte.
@@ -57,28 +57,43 @@ Tech Used: React, React/Next, Python, Svelte
 #+HTML: <b>Sep 2018 - Jan 2020 (1 year 5 months)</b> 
 Notable Projects: [[https://opintasolutions.coderprans.now.sh][Opinta Solutions]], [[https://extrasave.coderprans.now.sh/][ExtraSave]]  
 #+HTML: <span />
-Tech Used: React, React/Gatsby, Node, MongoDB, GraphQL 
+Tech Used: React, Gatsby.js, Node, MongoDB, GraphQL 
 # Sole developer in a 4 person web solutions startup, tasked with any project 
 # internal or client. Worked with technologies like React, Node, MongoDB and 
 # GraphQL.
 
 
 * Selected Projects
-** Hindi Archive
-- https://hindiarchive.netlify.app
-Frontend for searching Hindi contents on the Internet Archive.
-#+HTML: <span />
-Tech Used: React, Flask
-# A React interface over a Python Flask backend using the 'internetarchive'
-# python library to provide search results for all Hindi items. An approach to
-# promote the usage of open source resources and the Hindi Language in tech.
 
+** Reaves Utility Income Fund (UTG)
+- [[https://utilityincomefund.com][https://utilityincomefund.com]]
+The Reaves Utility Income Fund is a closed-end fund traded in the secondary market
+on the NYSE American under the symbol UTG.
+#+HTML: <span />
+Tech Used: React, Gatsby, GraphQL, D3
+
+
+** Panjika
+- [[https://panjika.netlify.app][https://panjika.netlify.app]]
+A real-time purnimanta panchangam (Hindu Almanac) utilising VSOP87
+astronomy table for planetary coordinates.
+#+HTML: <span />
+Tech Used: React, ClojureScript, Reagent
+
+# ** Hindi Archive
+# - https://hindiarchive.netlify.app
+# Frontend for searching Hindi contents on the Internet Archive.
+# #+HTML: <span />
+# Tech Used: React, Flask
+# # A React interface over a Python Flask backend using the 'internetarchive'
+# # python library to provide search results for all Hindi items. An approach to
+# # promote the usage of open source resources and the Hindi Language in tech.
 
 ** Hacker News CLJS
 - https://hncljs.netlify.app/
 A Hacker News clone.
 #+HTML: <span />
-Tech Used: ClojureScript, Re-frame
+Tech Used: React, ClojureScript, Re-frame
 
 
 # ** Trawis Connect (incomplete)
@@ -109,13 +124,13 @@ Tech Used: React/Next, Stripe
 # Stripe payments for buying kits from the site.
 
 
-** RSS Reader
-- https://rss-reader.coderprans.vercel.app/
-PWA feed reader
-#+HTML: <span />
-Tech Used: React/Next, MongoDB
-# A PWA feed reader built on Next js(React) where a user can subscribe to any blog,
-# register and save their subscriptions. Comes with Dark Mode.
+# ** RSS Reader
+# - https://rss-reader.coderprans.vercel.app/
+# PWA feed reader
+# #+HTML: <span />
+# Tech Used: React/Next, MongoDB
+# # A PWA feed reader built on Next js(React) where a user can subscribe to any blog,
+# # register and save their subscriptions. Comes with Dark Mode.
 
 
 * Education
